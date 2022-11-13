@@ -1,0 +1,10 @@
+	1) Git clone 
+	2) Git status 
+	3) Git checkout
+	4) Git branch 
+	5) Git commit 
+	6) Git push 
+	7) Git add
+	8) Git pull
+	9)  git commit -m "MESSAGE"  FILENAME
+Git branch 
