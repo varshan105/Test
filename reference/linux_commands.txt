@@ -1,0 +1,6 @@
+	(1)   ls  - list [shows all the file's details]
+	(2)   lsa -list all [list with all the details including date, time 
+	(3)  cd -change directory 
+	(4)  Cd .. - change directory to the last working directory 
+	(5)  pwd - present working directory 
+    (6)  mkdir - make directory 
