@@ -11,3 +11,4 @@ Git branch
 (use "git restore --staged <file>..." to unstage)
 
  git rm <FILENAME>
+ git diff shows the changes made
