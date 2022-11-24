@@ -12,3 +12,8 @@ Git branch
 
  git rm <FILENAME>
  git diff shows the changes made
+copy c files to TC gitprojects
+S1 go to tc git repo folder cd /d/gitprojects/TC
+S2 run the below command to copy all c program files
+  cp /c/TURBOC3/BIN/*.C . 
+S3 git add , commit and push   
